@@ -1,0 +1,7 @@
+{
+  "name": "AstraRun: AI Narrative Odyssey",
+  "description": "An immersive AI-powered running companion that generates a procedurally evolving sci-fi narrative and visuals based on your real-world or simulated fitness progress.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
